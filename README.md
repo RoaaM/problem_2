@@ -18,6 +18,6 @@ and I compile the model I used Adam optimizer and sparse_categorical_crossentrop
 
 then convert both label and features to numpy array.
 
-Fit the model to data and get result 0.99% accuracy score for training and 0.95 accuracy score for validation set.
+Fit the model to data and get result 0.99% accuracy score for training and 0.95% accuracy score for validation set.
 and I save this trained model to make prediction on unknown images.
 
