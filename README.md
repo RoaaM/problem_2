@@ -1,6 +1,6 @@
 # Face Mask Detection
 
-to get the data for this project 'https://www.kaggle.com/datasets/omkargurav/face-mask-dataset' to get the right directory download the data in your local machine and in your folder project.
+to get the data for this project 'https://www.kaggle.com/datasets/omkargurav/face-mask-dataset' to get the right directory download the data in your local machine at your folder project.
 
 you can run this code as jupyter notebook using visual studio code or anaconda and download the data from the previous link.
 
